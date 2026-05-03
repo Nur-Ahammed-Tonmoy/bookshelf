@@ -6,7 +6,7 @@ function CategoryBadge({ category }) {
   const map = {
     Story: "bg-purple-100 text-purple-800",
     Tech: "bg-blue-100 text-blue-800",
-    Science: "bg-green-100 text-green-800",
+    
   };
   return (
     <span
